@@ -15,7 +15,7 @@ For the other tracks of the ink!ubator see the
 - [Relation to Builder and Grants Tracks](#relation-to-builder-and-grants-tracks)
 - [Funding Available](#funding-available)
 - [Track Overview](#track-overview)
-- [Timelines (2023)](#timelines-(2023))
+- [Timelines (2023)](#timelines-2023)
 
 ## Open Questions
 - What risks are auditing teams concerned with when entering a new ecosystem?
